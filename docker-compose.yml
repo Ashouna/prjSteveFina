@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./app
+    container_name: backend
+    ports:
+      - "8000:8000"
+    environment:
+      - MONGO_URI=mongodb+srv://laura:2003@hopitaldb.bpo0jvo.mongodb.net/
+      - MONGO_DB_NAME=hopitaldb
+    command: uvicorn main:app --host 0.0.0.0 --port 8000

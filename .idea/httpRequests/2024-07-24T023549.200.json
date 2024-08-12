@@ -1,0 +1,65 @@
+[
+  {
+    "hospital_id": "669eed664003501184686135",
+    "patient_id": "string",
+    "first_name": "string",
+    "last_name": "string",
+    "date_of_birth": "2024-07-23T00:00:00",
+    "gender": "string",
+    "medical_history": [
+      {
+        "consultation_date": "2024-07-23T00:00:00",
+        "doctor_id": "string",
+        "diagnosis": "string",
+        "treatment": "string"
+      }
+    ],
+    "contact_information": {
+      "phone_number": "string",
+      "email": "string",
+      "address": "string"
+    }
+  },
+  {
+    "hospital_id": "string",
+    "patient_id": "string",
+    "first_name": "string",
+    "last_name": "string",
+    "date_of_birth": "2024-07-23T00:00:00",
+    "gender": "string",
+    "medical_history": [
+      {
+        "consultation_date": "2024-07-23T00:00:00",
+        "doctor_id": "string",
+        "diagnosis": "string",
+        "treatment": "string"
+      }
+    ],
+    "contact_information": {
+      "phone_number": "string",
+      "email": "string",
+      "address": "string"
+    }
+  },
+  {
+    "hospital_id": "string",
+    "patient_id": "string",
+    "first_name": "string",
+    "last_name": "string",
+    "date_of_birth": "2024-07-23T00:00:00",
+    "gender": "string",
+    "medical_history": [
+      {
+        "consultation_date": "2024-07-23T00:00:00",
+        "doctor_id": "string",
+        "diagnosis": "string",
+        "treatment": "string"
+      }
+    ],
+    "contact_information": {
+      "phone_number": "string",
+      "email": "string",
+      "address": "string"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "hospital_id": "string",
+    "name": "Dallal Jamm",
+    "address": "string",
+    "contact_information": {
+      "phone_number": "string",
+      "email": "user@example.com"
+    }
+  },
+  {
+    "hospital_id": "string",
+    "name": "string",
+    "address": "string",
+    "contact_information": {
+      "phone_number": "string",
+      "email": "user@example.com"
+    }
+  },
+  {
+    "hospital_id": "string",
+    "name": "string",
+    "address": "string",
+    "contact_information": {
+      "phone_number": "string",
+      "email": "user@example.com"
+    }
+  },
+  {
+    "hospital_id": "66a09e37d7166c2ad266256a",
+    "name": "string",
+    "address": "string",
+    "contact_information": {
+      "phone_number": "string",
+      "email": "user@example.com"
+    }
+  },
+  {
+    "hospital_id": "66a09e4efeea1136c9cb04f2",
+    "name": "string",
+    "address": "string",
+    "contact_information": {
+      "phone_number": "string",
+      "email": "user@example.com"
+    }
+  }
+]
